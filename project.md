@@ -75,3 +75,7 @@
                 .purple-theme {
                     --adm-color-primary: #222;
                 }
+
+# 基于 RTK 管理账目列表
+
+    创建 账单列表的 全局管理状态
