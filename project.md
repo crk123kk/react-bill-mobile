@@ -38,3 +38,19 @@
         添加启动命令："server": "json-server ./server/data.json --port 8888"
 
         访问接口进行测试
+
+# 初始化路由系统
+
+    确定项目路由，确定项目目录
+
+        一级路由：
+
+            new：新建账单
+
+            layout：账单详情
+
+                二级路由：
+
+                    month：月度账单(默认)
+
+                    year：年度账单
