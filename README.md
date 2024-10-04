@@ -26,5 +26,8 @@
 
 # 项目运行
 
-    npm install
-    npm start
+    npm install ：安装依赖
+
+    npm start ：启动项目
+
+    npm run server ： 启动 json-server 服务
