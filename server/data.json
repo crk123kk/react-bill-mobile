@@ -1,0 +1,18 @@
+{
+  "ka": [
+    {
+      "pay": "price",
+      "money": -50,
+      "date": "2019-01-01 10:00:00",
+      "useFor": "food",
+      "id": 1
+    },
+    {
+      "pay": "price",
+      "money": -50,
+      "date": "2019-01-01 10:00:00",
+      "useFor": "food",
+      "id": 2
+    }
+  ]
+}
