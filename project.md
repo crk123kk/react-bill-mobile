@@ -54,3 +54,24 @@
                     month：月度账单(默认)
 
                     year：年度账单
+
+# ant-mobile 主题定制
+
+    全局定制：
+
+        整个应用范围内都生效（切记：当前的css文件要在index.js引入才可以生效）
+
+            :root:root{
+                --adm-color-primary: #222;
+            }
+
+    局部定制：
+
+        只在某些元素内部的组件生效
+
+            在需要的组件内引入：
+                <div class="purple-theme"> xxx xx <Button /></div>
+
+                .purple-theme {
+                    --adm-color-primary: #222;
+                }
