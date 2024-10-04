@@ -20,6 +20,10 @@
 
     请求插件：axios
 
+    css预处理器：sass
+
+    工具库：lodash
+
 # 项目运行
 
     npm install
